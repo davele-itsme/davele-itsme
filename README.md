@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning React, Python.
 - 💞️ I’m looking to collaborate on inspiring, impactful projects.
 - 📫 How to reach me: ledaodavid@gmail.com
-- 💻 Technologies: Java, C#, HTML, CSS, JS
-
+- 💻 Technologies: Java, C#, JavaScript, Python
 <!---
 davele-itsme/davele-itsme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
