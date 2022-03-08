@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on inspiring, impactful projects.
 - 📫 How to reach me: ledaodavid@gmail.com
-- 💻 Technologies: Java, C#, JavaScript, Python
+- 💻 Technologies: C#, JavaScript, Java, Python
