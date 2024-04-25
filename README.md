@@ -1,5 +1,5 @@
 # Hi, I'm @David Le👋
-I am a product-minded engineer with several years of Fintech experience. I'm passionate about leveraging technology to create impactful solutions.
+I am a product-minded engineer with several years FinTech domain. I'm passionate about leveraging technology to create impactful solutions.
 
 ## 🟣 About Me
 - Strong interest in Domain-Driven Design (DDD) principles, striving to build scalable and maintainable systems
